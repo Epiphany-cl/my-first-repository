@@ -10,3 +10,5 @@
 - 找例子 xxx sample
 - 找空项目架子 xxx starter / xxx boilerplate 
 - 找教程 xxx tutorial
+
+<i style="color: red;">Markdown 也支持HTML标签</i>
